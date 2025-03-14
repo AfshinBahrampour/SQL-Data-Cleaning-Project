@@ -1,5 +1,3 @@
-# SQL-Data-Cleaning-Project
-This project focuses on cleaning and transforming real estate data using SQL. It includes standardizing date formats, splitting addresses, handling missing values, and removing duplicates.
 
 # SQL Data Cleaning Project
 This project focuses on data cleaning and transformation using SQL. The dataset contains real estate records, and the operations include:
